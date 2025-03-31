@@ -23,11 +23,10 @@ This repository contains a curated collection of Linux-related PDF documents tha
 
 
 
-### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
-
-
-## 👍 [https://www.youtube.com/@DouglasHabian-tq5ck](https://www.youtube.com/@DouglasHabian-tq5ck)
-
+#### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
+<h1 align="center">
+ 👍 https://www.youtube.com/@DouglasHabian-tq5ck
+</h1>
 
 
 
