@@ -1,5 +1,5 @@
+![Header](https://github.com/DouglasFreshHabian/FreshPdfLibrary/blob/main/Graphics/fresh-pdf-github-header-image.png)
 # FreshPdfLibrary 📚
-![Header](./github-header-image.png)
  This repository is a collection of Linux-related PDF documents that I've gathered over the years. I’ve centralized them here to make it easier for both myself and others to quickly acquire or re-acquire these valuable resources. For some, there may be documents in this collection that are new or unfamiliar. Rest assured, every PDF in this repository is related to Linux in one way or another. While this is just a small contribution, it marks my first real contribution to a community I deeply admire. Free as in freedom, always. Keep Learning and stay Fresh!!!
 
 
