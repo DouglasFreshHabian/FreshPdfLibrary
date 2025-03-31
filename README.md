@@ -1,6 +1,8 @@
 ![Header](https://github.com/DouglasFreshHabian/FreshPdfLibrary/blob/main/Graphics/fresh-pdf-github-header-image.png)
-# FreshPdfLibrary 📚
- This repository is a collection of Linux-related PDF documents that I've gathered over the years. I’ve centralized them here to make it easier for both myself and others to quickly acquire or re-acquire these valuable resources. For some, there may be documents in this collection that are new or unfamiliar. Rest assured, every PDF in this repository is related to Linux in one way or another. While this is just a small contribution, it marks my first real contribution to a community I deeply admire. Free as in freedom, always. Keep Learning and stay Fresh!!!
+# 📚 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00F705&center=true&width=435&lines=Firmware+Security+Testing+Methodology;LPI+Learning+Materials+101-500;The+Official+Radare2+Book+3rd+Edition;The+Web+Application+Hackers+Handbook;Kali+Linux+Revealed+2021+Edition)](https://git.io/typing-svg)
+
+This repository contains a curated collection of Linux-related PDF documents that I've accumulated over the years. I've gathered them here for easy access, making it convenient for myself and others to quickly find or revisitt these valuable resources. Some of these documents might be new or unfamiliar to you, but rest assured, each one is tied to Linux in some way. Although this is just a small contribution, it represents my first meaningful step in giving back to a community I truly respect. Always free as in freedom. Keep learning and stay Fresh!
+
 
 
 
