@@ -4,18 +4,18 @@
 This repository contains a curated collection of Linux-related PDF documents that I've accumulated over the years. I've gathered them here for easy access, making it convenient for myself and others to quickly find or revisitt these valuable resources. Some of these documents might be new or unfamiliar to you, but rest assured, each one is tied to **_Linux_** in some way. Although this is just a small contribution, it represents my first meaningful step in giving back to a community I truly respect. Always free as in freedom. Keep learning and stay Fresh!
 
 ## Table of Contents:🗃📈
+Here are some of the many pdf's available in this repo, organized according to content.
+### Linux Exam Study Material:📚🐧
 
-### Linux & Open Source:🌏🐧
+* LPI-Learning-Material-102-500-en.pdf - Study Material For LPIC-1 - Second Exam
 
-* LinuxLeo.pdf - Overview of Linux systems and their inner workings.
+* LPI-Learning-Material-101-500-en.pdf - Study Material For LPIC-1 - First Exam
 
-* LPI-Learning-Material-010-160-en.pdf - LPI Linux Essentials study material.
+* LPI-Learning-Material-030-100-en.pdf - Study Material For Web Development Essentials - Version 1.0
 
-* LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study guide for LPI Security Essentials exam.
+* LPI-Learning-Material-010-160-en.pdf - Study Material For Linux Essentials - Version 1.6
 
-* Kali-Linux-Revealed-2021-edition.pdf - A comprehensive guide to Kali Linux.
-
-* Metasploit-Unleashed_Combined.pdf - A detailed guide on using Metasploit for penetration testing.
+* LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study Guide For LPI Security Essentials Exam
 
 ### Hacking & Security:🌐🔐
 
@@ -59,6 +59,18 @@ This repository contains a curated collection of Linux-related PDF documents tha
 
 * RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf - Breaking CRP on NXP LPC microcontrollers.
 
+### Linux & Open Source:🌏🐧
+
+* LinuxLeo.pdf - Overview of Linux systems and their inner workings.
+
+* LPI-Learning-Material-010-160-en.pdf - LPI Linux Essentials study material.
+
+* LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study guide for LPI Security Essentials exam.
+
+* Kali-Linux-Revealed-2021-edition.pdf - A comprehensive guide to Kali Linux.
+
+* Metasploit-Unleashed_Combined.pdf - A detailed guide on using Metasploit for penetration testing.
+
 ### Miscellaneous:📊📚
 
 * README.md - A guide to the repository and how to use the materials.
@@ -81,10 +93,9 @@ This repository contains a curated collection of Linux-related PDF documents tha
 
 
 
-#### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
-<h1 align="center">
- 🔗 https://www.youtube.com/@DouglasHabian-tq5ck
-</h1>
+##### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
+### 🔗 https://youtube.com/@DouglasHabian-tq5ck
+
 
 
 
