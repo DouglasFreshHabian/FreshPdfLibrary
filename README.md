@@ -61,11 +61,9 @@ Here are some of the many pdf's available in this repo, organized according to c
 
 ### Linux & Open Source:🌏🐧
 
-* LinuxLeo.pdf - Overview of Linux systems and their inner workings.
+* LinuxLeo.pdf - Comprehensive Intro into using Linux as a Forensic Workstation
 
-* LPI-Learning-Material-010-160-en.pdf - LPI Linux Essentials study material.
-
-* LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study guide for LPI Security Essentials exam.
+* R2book.pdf - A Complete Guide to Using Radare2 for Reverse Engineering 
 
 * Kali-Linux-Revealed-2021-edition.pdf - A comprehensive guide to Kali Linux.
 
@@ -93,7 +91,7 @@ Here are some of the many pdf's available in this repo, organized according to c
 
 
 
-##### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
+##### If you have not done so already, please head over to the channel and hit that *subscribe* button to show some support. Thank you!!!
 ### 🔗 https://youtube.com/@DouglasHabian-tq5ck
 
 
