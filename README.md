@@ -17,7 +17,7 @@ This repository contains a curated collection of Linux-related PDF documents tha
 
     Metasploit-Unleashed_Combined.pdf - A detailed guide on using Metasploit for penetration testing.
 
-Hacking & Security
+### Hacking & Security:
 
     A-Hacker-Manifesto-McKenzie-Wark.pdf - A philosophical look at hacking culture.
 
@@ -29,7 +29,7 @@ Hacking & Security
 
     Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf - Introduction to penetration testing with hands-on examples.
 
-Embedded Systems & IoT
+### Embedded Systems & IoT:
 
     Connecting-to-the-internet-with-pico-w.pdf - A guide to connecting devices to the internet using Raspberry Pi Pico W.
 
@@ -39,7 +39,7 @@ Embedded Systems & IoT
 
     towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf - Techniques for dynamic analysis of embedded firmware.
 
-Mobile & Application Security
+## Mobile & Application Security:
 
     Dominic-Chell-The-Mobile-Application-Hackers-Handbook-2015.pdf - A deep dive into mobile app security and exploitation.
 
@@ -49,7 +49,7 @@ Mobile & Application Security
 
     Mickey-and-Jesse-DEFCON-29-High-Stakes-Updates-BIOSRCEOMGWTFBBQ.pdf - BIOS hacking techniques discussed at DEFCON 29.
 
-Firmware & Hardware Security
+## Firmware & Hardware Security:
 
     Firmware_Security_Testing_Methodology_Version.1.pdf - A methodology for testing firmware security.
 
@@ -59,7 +59,7 @@ Firmware & Hardware Security
 
     RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf - Breaking CRP on NXP LPC microcontrollers.
 
-Miscellaneous
+## Miscellaneous:
 
     README.md - A guide to the repository and how to use the materials.
 
