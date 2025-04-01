@@ -7,67 +7,67 @@ This repository contains a curated collection of Linux-related PDF documents tha
 
 ### Linux & Open Source:
 
-    LinuxLeo.pdf - Overview of Linux systems and their inner workings.
+* LinuxLeo.pdf - Overview of Linux systems and their inner workings.
 
-    LPI-Learning-Material-010-160-en.pdf - LPI Linux Essentials study material.
+* LPI-Learning-Material-010-160-en.pdf - LPI Linux Essentials study material.
 
-    LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study guide for LPI Security Essentials exam.
+* LPI-Security-Essentials-Study-Guide-Exam-020-100-2023.pdf - Study guide for LPI Security Essentials exam.
 
-    Kali-Linux-Revealed-2021-edition.pdf - A comprehensive guide to Kali Linux.
+* Kali-Linux-Revealed-2021-edition.pdf - A comprehensive guide to Kali Linux.
 
-    Metasploit-Unleashed_Combined.pdf - A detailed guide on using Metasploit for penetration testing.
+* Metasploit-Unleashed_Combined.pdf - A detailed guide on using Metasploit for penetration testing.
 
 ### Hacking & Security:
 
-    A-Hacker-Manifesto-McKenzie-Wark.pdf - A philosophical look at hacking culture.
+* A-Hacker-Manifesto-McKenzie-Wark.pdf - A philosophical look at hacking culture.
 
-    BH2018_REMOTELY_ATACKING_SYSTEM_FIRMWARE_FINAL.pdf - Exploiting system firmware vulnerabilities remotely.
+* BH2018_REMOTELY_ATACKING_SYSTEM_FIRMWARE_FINAL.pdf - Exploiting system firmware vulnerabilities remotely.
 
-    DC26_UEFI_EXPLOITATION_MASSES_FINAL.pdf - Exploiting UEFI firmware.
+* DC26_UEFI_EXPLOITATION_MASSES_FINAL.pdf - Exploiting UEFI firmware.
 
-    The-Hacker-Playbook-2.pdf - A practical guide to penetration testing techniques.
+* The-Hacker-Playbook-2.pdf - A practical guide to penetration testing techniques.
 
-    Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf - Introduction to penetration testing with hands-on examples.
+* Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf - Introduction to penetration testing with hands-on examples.
 
 ### Embedded Systems & IoT:
 
-    Connecting-to-the-internet-with-pico-w.pdf - A guide to connecting devices to the internet using Raspberry Pi Pico W.
+* Connecting-to-the-internet-with-pico-w.pdf - A guide to connecting devices to the internet using Raspberry Pi Pico W.
 
-    car_hacking_poories.pdf - Insights into car hacking and securing vehicles.
+* car_hacking_poories.pdf - Insights into car hacking and securing vehicles.
 
-    learn-how-to-hack-cars.pdf - A beginner's guide to car hacking.
+* learn-how-to-hack-cars.pdf - A beginner's guide to car hacking.
 
-    towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf - Techniques for dynamic analysis of embedded firmware.
+* towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf - Techniques for dynamic analysis of embedded firmware.
 
 ## Mobile & Application Security:
 
-    Dominic-Chell-The-Mobile-Application-Hackers-Handbook-2015.pdf - A deep dive into mobile app security and exploitation.
+* Dominic-Chell-The-Mobile-Application-Hackers-Handbook-2015.pdf - A deep dive into mobile app security and exploitation.
 
-    android_app_vulnerability_classes.pdf - Common vulnerabilities in Android applications.
+* android_app_vulnerability_classes.pdf - Common vulnerabilities in Android applications.
 
-    Spy-vs-Spy_A-modern-study-of-microphone-bugs-operation-and-detection._Valeros-Garcia.pdf - Detection and operation of microphone bugs.
+* Spy-vs-Spy_A-modern-study-of-microphone-bugs-operation-and-detection._Valeros-Garcia.pdf - Detection and operation of microphone bugs.
 
-    Mickey-and-Jesse-DEFCON-29-High-Stakes-Updates-BIOSRCEOMGWTFBBQ.pdf - BIOS hacking techniques discussed at DEFCON 29.
+* Mickey-and-Jesse-DEFCON-29-High-Stakes-Updates-BIOSRCEOMGWTFBBQ.pdf - BIOS hacking techniques discussed at DEFCON 29.
 
 ## Firmware & Hardware Security:
 
-    Firmware_Security_Testing_Methodology_Version.1.pdf - A methodology for testing firmware security.
+* Firmware_Security_Testing_Methodology_Version.1.pdf - A methodology for testing firmware security.
 
-    Jtagsploitation.pdf - Exploiting JTAG interfaces for debugging and hacking.
+* Jtagsploitation.pdf - Exploiting JTAG interfaces for debugging and hacking.
 
-    HardwareHackerPaperback_Ch2_Sample.pdf - Sample chapter from a hardware hacking book.
+* HardwareHackerPaperback_Ch2_Sample.pdf - Sample chapter from a hardware hacking book.
 
-    RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf - Breaking CRP on NXP LPC microcontrollers.
+* RECON-BRX-2017-Breaking_CRP_on_NXP_LPC_Microcontrollers_slides.pdf - Breaking CRP on NXP LPC microcontrollers.
 
 ## Miscellaneous:
 
-    README.md - A guide to the repository and how to use the materials.
+* README.md - A guide to the repository and how to use the materials.
 
-    TOR_Everything_01r.pdf - A comprehensive guide on using Tor for privacy and anonymity.
+* TOR_Everything_01r.pdf - A comprehensive guide on using Tor for privacy and anonymity.
 
-    Kevin-Mitnick-Ghost-in-the-wires-2011.pdf - The autobiography of hacker Kevin Mitnick.
+* Kevin-Mitnick-Ghost-in-the-wires-2011.pdf - The autobiography of hacker Kevin Mitnick.
 
-    Jon-Erickson-Hacking-The-Art-of-Exploitation-2008.pdf - A classic on hacking and exploitation techniques.
+* Jon-Erickson-Hacking-The-Art-of-Exploitation-2008.pdf - A classic on hacking and exploitation techniques.
 
 
 
